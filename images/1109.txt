@@ -1,0 +1,8 @@
+* local host can be called as a server working inside my own computer.
+* front end - the interface that users can see and interact with 
+  backend - the side of a website/app that the users can't see but important when functioning. also called as the serverside. 
+* Administration Management System
+
+https://learn.zoom.us/j/61103527647?pwd=V3M0aEFiTTcwOFlTQ2lkSXF2S0NHQT09
+Session ID: 61103527647
+Passcode: *kDT^w.1
